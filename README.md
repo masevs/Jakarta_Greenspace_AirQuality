@@ -6,7 +6,7 @@
 
 This project presents an interactive map analyzing the relationship between green space coverage and PM2.5 air quality levels across the municipalities of Jakarta. The analysis and visualization were performed using open-source geospatial data and QGIS.
 
-**[View the Interactive Map](https://masevs.github.io/jakarta-green-space-airquality/)**  
+**[View the Interactive Map](https://masevs.github.io/Jakarta_Greenspace_AirQuality)**  
 📄 **[Read Full Report (PDF)](Mapping%20Urban%20Green%20Space%20and%20Air%20Quality%20in%20Jakarta%20Using%20QGIS.pdf)**
 
 ---
